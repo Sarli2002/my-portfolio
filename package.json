@@ -2,7 +2,7 @@
   "name": "my-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Sarli2002.github.io/my-website",
+  "homepage": "https://Sarli2002.github.io/my-portfolio",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.16.5",
