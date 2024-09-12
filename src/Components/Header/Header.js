@@ -1,5 +1,5 @@
 import React from "react";
-import myimage from "./my-image.png";
+import myimage from "../../Assets/my-image.png";
 import "./Header.css";
 export default function Header() {
   return (
@@ -10,7 +10,7 @@ export default function Header() {
             Hello, <span>I am</span>
           </div>
           <div class="text-2">Sarli</div>
-          <div class="text-3">And I'm a Frontend Developer</div>
+          <div class="text-3">And I'm a Full-stack Developer</div>
           <a href="#Aboutme" class="btn">
             About me
           </a>

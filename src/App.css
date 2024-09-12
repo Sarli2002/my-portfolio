@@ -1,5 +1,7 @@
 :root {
   --primary-color: #12f7ff;
+  /* --toastify-text-color-light: black; */
+
 
 }
 * {
@@ -9,12 +11,11 @@
   font-family: 'roboto','Ubuntu', sans-serif;
   font-size: 17px;
   
-  color: white;
 }
+
+
 h1{
   font-size: 35px;
-  
-  
   font-family: 'Playfair Display', serif; 
 }
  .btn {
@@ -22,13 +23,10 @@ h1{
 text-decoration: none;
 background-image: linear-gradient(to right, #12f7ff 0%, #23B1FF 50%, #12f7ff 100%);
   transition: 0.5s;
-
   color: white;
   font-size: 22px;
   padding: 5px 18px;
   margin-top: 20px;
-  /* font-weight: 400; */
-  
   border-radius: 6px;
    border: 2px solid #12F7FF;
   transition: all 0.3s ease;

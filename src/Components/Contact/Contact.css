@@ -6,9 +6,11 @@
       justify-content: center;
       align-items: center;
       background-color: #222831;
+      color:white;
      
   }
-  
+
+ 
   .Contact-container{
     width:80%;
   
@@ -51,6 +53,8 @@
     
     .column a{
       text-decoration: none;
+      color: white;
+      
     }
     .column .social-media{
       padding: 25px;

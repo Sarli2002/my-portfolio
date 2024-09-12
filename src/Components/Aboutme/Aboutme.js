@@ -1,5 +1,5 @@
 import React from "react";
-import Aboutmeimg from "./Aboutme-img.png";
+import Aboutmeimg from "../../Assets/Aboutme-img.png";
 import "./Aboutme.css"
 export default function Aboutme() {
   return (
@@ -11,7 +11,7 @@ export default function Aboutme() {
               <h1>About Me</h1>
             </div>
             <p>
-              Hello! My name is Sarli. I am persuing Electronics and
+              Hello! My name is Sarli. I am final year student, persuing Electronics and
               Communication Engineering with specialization in Artificial
               Intelligence and Machine Learning from Netaji Subhas University Of
               Technology. I live in Faridabad, Haryana.

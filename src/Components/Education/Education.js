@@ -14,7 +14,7 @@ export default function Education() {
                 <span class="flag">B.Tech</span>
               </div>
               <div class="desc">
-                NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY | JAN 2022 - PRESENT
+                NETAJI SUBHAS UNIVERSITY OF TECHNOLOGY | 2021 - PRESENT
               </div>
             </div>
           </li>

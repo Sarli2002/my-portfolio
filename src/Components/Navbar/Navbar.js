@@ -14,6 +14,7 @@ function Navbar() {
   return (
     <>
       <nav className="Navbar">
+        
         <h1 className="navbar-logo">Sarli</h1>
 
         <div className="menu-icon" onClick={handleClick}>
